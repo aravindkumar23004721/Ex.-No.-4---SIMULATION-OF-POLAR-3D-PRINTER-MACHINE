@@ -27,9 +27,9 @@
 
 ## OUTPUT:
 
-![![WhatsApp Image 2023-11-20 at 18 40 07_4da9f57e](https://github.com/aravindkumar23004721/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148962674/e685e881-7c24-4a25-aff5-1d2470b15f3c)
+![WhatsApp Image 2023-11-20 at 18 40 07_4da9f57e](https://github.com/aravindkumar23004721/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148962674/e685e881-7c24-4a25-aff5-1d2470b15f3c)
 
-![![WhatsApp Image 2023-11-20 at 18 39 52_eb1811af](https://github.com/aravindkumar23004721/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148962674/f79722ee-49b6-415d-9618-8408ff150844)
+![WhatsApp Image 2023-11-20 at 18 39 52_eb1811af](https://github.com/aravindkumar23004721/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148962674/f79722ee-49b6-415d-9618-8408ff150844)
 
 ## Output:
 
