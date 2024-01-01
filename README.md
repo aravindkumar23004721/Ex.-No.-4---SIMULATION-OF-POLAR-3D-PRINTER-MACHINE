@@ -7,7 +7,6 @@
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-
 ## Assembly of Polar 3D Printer
 ### 1.	Select 'Assembly of Polar 3D Printer' from the visible list.
 ### 2.	All the parts related to Polar 3D Printer will be shown on the screen.
